@@ -71,18 +71,6 @@ All learning features are available to everyone.
 
 ---
 
-## 🛠️ Tech Stack
-
-The technology stack will be documented and updated as the project develops.
-
-- **Frontend:** [Add framework]
-- **Backend:** [Add backend technology]
-- **Database:** [Add database]
-- **Authentication:** [Add authentication provider]
-- **Deployment:** [Add hosting provider]
-
----
-
 ## 🚀 Getting Started
 
 Once the source code and development setup are available:
@@ -90,7 +78,7 @@ Once the source code and development setup are available:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/keyflow.git
+   git clone https://github.com/malik007000/keyflow.git
    ```
 
 2. Navigate to the project:
